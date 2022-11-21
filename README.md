@@ -3,6 +3,10 @@ This repository contains all of the links to my projects that are hosted on Data
 
 Links below:
 
+IFSC Classification Report Abridged Version (R): 
+
+IFSC Classification Report Complete Version (R): https://github.com/Habeus-Crimpus/IFSC/blob/main/IFSC%20Classification%20Report.pdf
+
 Food Poisoning Process Case Study (R): https://app.datacamp.com/workspace/w/2f830260-a620-4e76-a01b-fe3eed354865
   - This project is currently being updated to comply with DataCamp's updates to the workspace environment and may not be available.
 
