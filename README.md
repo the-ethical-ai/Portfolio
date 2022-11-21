@@ -1,5 +1,5 @@
 # Portfolio Links
-This repository contains all of the links to my projects that are hosted on DataCamp Workspace, a Tableau server, or otherwise digitally.
+This repository contains all of the links to my projects that are hosted on DataCamp Workspace, Tableau Public, and GitHub.
 
 Links below:
 
