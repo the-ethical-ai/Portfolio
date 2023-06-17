@@ -1,17 +1,22 @@
-# TL; DR
+# Summary of the Projects 
 
-This repository contains all of the source code, PDFs, and links to my data analytics and science portfolio projects.
+* 😈 The **Dark Triad Classification App (Python)** offers supervised machine learning predictions and dynamic data visualizations about levels of agreement with questions used to measure narcissism, psychopathy, and Machiavellianism. 
+* 🧗🏻‍♂️ The **IFSC Classification Report (R)** summarizes the development of a random forest classification model that predicts with +90% accuracy whether a rock climbing athlete should be considered a potential winner of an International Federation of Sport Climbing (IFSC) competition.
+* 🎬 The **Movie Recommender Project (R)** covers my work on the Netflix challenge, where Netflix offered a prize for developing a recommendation system that performed better than their own. The report includes a model that performed 9.6% better than Netflix's (then) algorithm.
+* 🦄 The **Analysis of Unicorn Companies (PostgreSQL)** is a brief exploratory data analysis report of unicorn companies between 2019-2021.
+* 😃 The **CPI vs. Happiness Dashboard (Tableau)** provides interactive map, numeric, and scatter plot-based exploratory data analysis of economic, social, and political data in relation to reported happiness across various countries.
 
-Below is a list of all of the projects.
 ---
 
-## IFSC Classification Report Abridged Version (R) 
+# Links
 
-IFSC Classification Report Complete Version (R): https://github.com/Habeus-Crimpus/IFSC/blob/main/IFSC%20Classification%20Report.pdf
+**Dark Triad App:** https://darktriad1.streamlit.app/
 
-Food Poisoning Process Case Study (R): https://app.datacamp.com/workspace/w/2f830260-a620-4e76-a01b-fe3eed354865
-  - This project is currently being updated to comply with DataCamp's updates to the workspace environment and may not be available.
+**IFSC Classification Report:** https://github.com/Habeus-Crimpus/IFSC/blob/main/IFSC_Abridged_Report.pdf
 
-Analyzing Unicorn Companies (PostgreSQL): https://app.datacamp.com/workspace/w/c7cb59c6-8b53-4644-8d21-1eb137a7c275
+**Movie Recommendation Report:** https://github.com/Habeus-Crimpus/Movielens_Harvardx/blob/main/Movielens_10M_PDF.pdf
 
-CPI vs. Happiness Score Dashboard (Tableau Public): https://public.tableau.com/app/profile/tyler7235/viz/CPIvs_HappinessDashboard/Dashboard1
+**Unicorn Companies:** https://app.datacamp.com/workspace/w/c7cb59c6-8b53-4644-8d21-1eb137a7c275
+
+**Happiness Dashboard:** https://public.tableau.com/app/profile/tyler7235/viz/CPIvs_HappinessDashboard/Dashboard1
+
