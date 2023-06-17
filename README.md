@@ -1,10 +1,11 @@
-# Portfolio Projects Repository Overview
+# TL; DR
 
 This repository contains all of the source code, PDFs, and links to my data analytics and science portfolio projects.
 
 Below is a list of all of the projects.
+---
 
-IFSC Classification Report Abridged Version (R): 
+## IFSC Classification Report Abridged Version (R) 
 
 IFSC Classification Report Complete Version (R): https://github.com/Habeus-Crimpus/IFSC/blob/main/IFSC%20Classification%20Report.pdf
 
