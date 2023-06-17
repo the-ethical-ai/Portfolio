@@ -1,7 +1,8 @@
-# Portfolio Links
-This repository contains all of the links to my projects that are hosted on DataCamp Workspace, Tableau Public, and GitHub.
+# Portfolio Projects Repository Overview
 
-Links below:
+This repository contains all of the source code, PDFs, and links to my data analytics and science portfolio projects.
+
+Below is a list of all of the projects.
 
 IFSC Classification Report Abridged Version (R): 
 
